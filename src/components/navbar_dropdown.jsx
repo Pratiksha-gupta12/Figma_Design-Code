@@ -54,6 +54,7 @@ const Navbardropdown = () => {
                 }`}
               >
                 {option}
+                
               </label>
             </li>
           ))}
